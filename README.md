@@ -22,8 +22,7 @@ Perfect for beginners and learners who want to strengthen their understanding of
 [task 10.py](./task%2010.py) | 📝 Count **unique words** in a text | ![Task 10](./task%2010.png)  
 [task 11.py](./task%2011.py) | 🧹 Remove duplicates from a list | ![Task 11](./task%2011.png)  
 [task 12.py](./task%2012.py) | 💼 Skill analysis challenge (real-world case) | ![Task 12](./task%2012.png)  
-# Better format:
-[task_1.py](./task_1.py)
+
 ---
 
 ✅ **What I Practiced**  
